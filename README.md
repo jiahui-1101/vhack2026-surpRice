@@ -261,7 +261,7 @@ Team **TBC**
 | Team member | Role | Contributions evidenced in the repository |
 |---|---|---|
 | **Wong Jia Hui** | **AI & Dashboard Frontend Developer** | Implemented the AI chat box, historical-trend and anomaly views, navigator tooling and dashboard integration; also restructured submission documentation and links. |
-| **Bong Zi Shan** | **Prediction & Deployment Feature Developer** | Implemented AI prediction, Quick Deploy, machine-model and status-banner features, and contributed application/UI integration. |
+| **Bong Zi Shan** | **Team Leader · Prediction & Deployment Feature Developer** | Implemented AI prediction, Quick Deploy, machine-model and status-banner features, and contributed application/UI integration. |
 | **Loh Su Ting** | **Maintenance & Advisory Feature Developer** | Built maintenance scheduling, AI Advisor, anomaly-condition handling and smart search, and contributed README/submission updates. |
 | **Wong Zi Qi** | **3D Experience & Production Planning Developer** | Created the initial React/Spline foundation, 3D welcome and login experience, AI production planner, machine-health dashboard/HUD and theme refinements. |
 
