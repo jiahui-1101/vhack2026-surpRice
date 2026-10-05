@@ -258,12 +258,10 @@ To become the **default “factory intelligence” layer** for SMEs across South
 
 Team **TBC**
 
-| Team member | Role | Contributions evidenced in the repository | Visible non-merge commits* |
-|---|---|---|---:|
-| **Wong Jia Hui** | **AI & Dashboard Frontend Developer** | Implemented the AI chat box, historical-trend and anomaly views, navigator tooling and dashboard integration; also restructured submission documentation and links. | **9 / 39** |
-| **Bong Zi Shan** | **Prediction & Deployment Feature Developer** | Implemented AI prediction, Quick Deploy, machine-model and status-banner features, and contributed application/UI integration. | **9 / 39** |
-| **Loh Su Ting** | **Maintenance & Advisory Feature Developer** | Built maintenance scheduling, AI Advisor, anomaly-condition handling and smart search, and contributed README/submission updates. | **13 / 39** |
-| **Wong Zi Qi** | **3D Experience & Production Planning Developer** | Created the initial React/Spline foundation, 3D welcome and login experience, AI production planner, machine-health dashboard/HUD and theme refinements. | **8 / 39** |
-
-<sub>*Counts are non-merge commits visible in the public Git history. The repository is a fork of the team's main project repository.</sub>
+| Team member | Role | Contributions evidenced in the repository |
+|---|---|---|
+| **Wong Jia Hui** | **AI & Dashboard Frontend Developer** | Implemented the AI chat box, historical-trend and anomaly views, navigator tooling and dashboard integration; also restructured submission documentation and links. |
+| **Bong Zi Shan** | **Prediction & Deployment Feature Developer** | Implemented AI prediction, Quick Deploy, machine-model and status-banner features, and contributed application/UI integration. |
+| **Loh Su Ting** | **Maintenance & Advisory Feature Developer** | Built maintenance scheduling, AI Advisor, anomaly-condition handling and smart search, and contributed README/submission updates. |
+| **Wong Zi Qi** | **3D Experience & Production Planning Developer** | Created the initial React/Spline foundation, 3D welcome and login experience, AI production planner, machine-health dashboard/HUD and theme refinements. |
 
